@@ -1,4 +1,4 @@
--- Pseudo Code SQL Sample Data
+-- Pseudo - Code Sample Queries SQL
 -- Returns the number of work orders that are pending, grouped by the type of service 
  
 SELECT 
