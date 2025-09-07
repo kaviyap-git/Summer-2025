@@ -1,5 +1,4 @@
 -- Pseudo - Code Sample Queries SQL
-
 -- Helped retrive locations where contracts were terminated 
 
 SELECT 
