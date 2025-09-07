@@ -1,4 +1,4 @@
--- Pseudo code SQL 
+-- Pseudo - Code Sample Queries SQL
 -- Displayed invoice and customer number in relation to the work order status
 
 SELECT 
