@@ -14,7 +14,7 @@ TK Elevator Shared Services/National Accounts Intern
 - Designed and automated recurring reports to improve tracking of operational metrics.  
 - Collaborated with cross-functional teams in North America and Brazil to streamline backlog processes, reducing the 2023–2024 backlog by **70% within two months**.
 - Presented final project of progress and improvements to company's financial directors
-- 
+  
 
 ## Tools & Skills
 - Excel / Power BI  
